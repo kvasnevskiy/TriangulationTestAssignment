@@ -1,0 +1,14 @@
+C:\Users\v.kvasnevkyi\source\repos\TriangulationTestAssignment\TriangulationTestAssignment\bin\Debug\TriangulationTestAssignment.exe.config
+C:\Users\v.kvasnevkyi\source\repos\TriangulationTestAssignment\TriangulationTestAssignment\bin\Debug\TriangulationTestAssignment.exe
+C:\Users\v.kvasnevkyi\source\repos\TriangulationTestAssignment\TriangulationTestAssignment\bin\Debug\TriangulationTestAssignment.pdb
+C:\Users\v.kvasnevkyi\source\repos\TriangulationTestAssignment\TriangulationTestAssignment\obj\Debug\TriangulationTestAssignment.csprojAssemblyReference.cache
+C:\Users\v.kvasnevkyi\source\repos\TriangulationTestAssignment\TriangulationTestAssignment\obj\Debug\TriangulationTestAssignment.csproj.CoreCompileInputs.cache
+C:\Users\v.kvasnevkyi\source\repos\TriangulationTestAssignment\TriangulationTestAssignment\obj\Debug\TriangulationTestAssignment.exe
+C:\Users\v.kvasnevkyi\source\repos\TriangulationTestAssignment\TriangulationTestAssignment\obj\Debug\TriangulationTestAssignment.pdb
+E:\TriangulationTestAssignment\TriangulationTestAssignment\bin\Debug\TriangulationTestAssignment.exe.config
+E:\TriangulationTestAssignment\TriangulationTestAssignment\bin\Debug\TriangulationTestAssignment.exe
+E:\TriangulationTestAssignment\TriangulationTestAssignment\bin\Debug\TriangulationTestAssignment.pdb
+E:\TriangulationTestAssignment\TriangulationTestAssignment\obj\Debug\TriangulationTestAssignment.csprojAssemblyReference.cache
+E:\TriangulationTestAssignment\TriangulationTestAssignment\obj\Debug\TriangulationTestAssignment.csproj.CoreCompileInputs.cache
+E:\TriangulationTestAssignment\TriangulationTestAssignment\obj\Debug\TriangulationTestAssignment.exe
+E:\TriangulationTestAssignment\TriangulationTestAssignment\obj\Debug\TriangulationTestAssignment.pdb
